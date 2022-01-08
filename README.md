@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ## Salve salve, eu sou a Caio H Novelletto, profissional de tecnologia!
 <div align="center">
   <a href="https://github.com/kionovelletto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kionovelletto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kionovelletto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kionovelletto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kionovelletto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
