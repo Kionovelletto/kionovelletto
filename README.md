@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 ## Salve salve, eu sou o Caio Novelletto e este é meu repositório.
 <div align="center">
   <a href="https://github.com/kionovelletto">
+    
   ##
+    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+    
 </div>
