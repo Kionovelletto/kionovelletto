@@ -18,6 +18,7 @@ Here are some ideas to get you started:
     
   ##
     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+  ![Alt Text](https://github.com/Kionovelletto/kionovelletto/blob/main/hello_world_repo_caio.gif)
     
 </div>
+  
