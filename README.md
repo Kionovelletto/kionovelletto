@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kionovelletto&layout=compact&langs_count=16&theme=tokyonight)  
     
 </div>
-  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kionovellettto&label=Repository%20views&color=8fce00&style=flat" alt="kionovellettto" /> </p>
