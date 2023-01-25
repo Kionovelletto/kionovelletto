@@ -22,3 +22,4 @@ Here are some ideas to get you started:
     
 </div>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kionovelletto&show_icons=true&theme=tokyonight)
