@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     
   ##
     
-  ![Alt Text](https://github.com/Kionovelletto/kionovelletto/blob/main/hello_world_repo_caio.gif)
+  ![Alt Text](https://github.com/Kionovelletto/kionovelletto/blob/bd105eea06612307f131ec74c294f4385f66aa68/hello_world_repo_caio.gif)
     
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kionovelletto&layout=compact&langs_count=16&theme=tokyonight)  
