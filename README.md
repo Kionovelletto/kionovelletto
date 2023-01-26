@@ -25,3 +25,11 @@ Here are some ideas to get you started:
     
 </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=kionovellettto&label=Repository%20views&color=8fce00&style=flat" alt="kionovellettto" /> </p>
+  
+<div align="center">
+ <a href="https://gohorse-incode.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white target="_blank"></a>
+ <a href="MEU_USER:KioNovelletto#4066" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white target="_blank"></a>
+ <a href="https://www.linkedin.com/in/caio-henrique-novelletto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
+ <a href="https://open.spotify.com/user/kionovelletto?si=7d295cac5b2448da" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white target="_blank"></a>
+ <a href="https://github.com/Kionovelletto/VS_Code" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white target="_blank"></a>
+</div>
