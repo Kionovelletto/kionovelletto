@@ -38,6 +38,6 @@ Here are some ideas to get you started:
  <a href="https://gitlab.com/kionovelletto" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white target="_blank"></a>
 </div>
 
-<a href="https://github.com/shukawam" align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=shukawam&theme=tokyonight&column=8&margin-h=15" />
+<a href="https://github.com/kionovelletto" align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=kionovelletto&theme=tokyonight&column=8&margin-h=15" />
 </a>
