@@ -37,3 +37,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/Kionovelletto/terraform_study" target="_blank"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white target="_blank"></a>
  <a href="https://gitlab.com/kionovelletto" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white target="_blank"></a>
 </div>
+
+<a href="https://github.com/shukawam" align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=shukawam&theme=tokyonight&column=8&margin-h=15" />
+</a>
