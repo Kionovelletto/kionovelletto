@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/caio-henrique-novelletto/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white target="_blank"></a> 
  <a href="https://github.com/Kionovelletto/terraform_study" target="_blank"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white target="_blank"></a>
  <a href="https://gitlab.com/kionovelletto" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white target="_blank"></a>
-  <a href="https://gitlab.com/kionovelletto" target="_blank"><img src="https://img.shields.io/badge/haproxy-7289DA?style=for-the-badge&logo=haproxy&logoColor=white target="_blank"></a>
+  <a href="https://github.com/Kionovelletto/container/tree/main/Haproxy" target="_blank"><img src="https://img.shields.io/badge/haproxy-7289DA?style=for-the-badge&logo=haproxy&logoColor=white target="_blank"></a>
 </div>
 
 <!--
