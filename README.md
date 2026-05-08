@@ -7,7 +7,6 @@ Infraestrutura, automação e cultura DevOps. Apaixonado por shell script, conta
 ### 🟢 Atualmente
 
 - 🔭 Trabalhando em projetos de infraestrutura e automação
-- 🌱 Estudando Terraform e práticas de IaC
 - 👯 Open para colaborar em projetos DevOps / SRE
 
 ---
@@ -37,7 +36,14 @@ Infraestrutura, automação e cultura DevOps. Apaixonado por shell script, conta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kionovelletto&layout=compact&langs_count=16&theme=tokyonight" alt="Top Langs">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kionovelletto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kionovelletto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langs">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kionovelletto&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
